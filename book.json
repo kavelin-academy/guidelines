@@ -1,0 +1,21 @@
+{
+	"plugins": ["disqus", "ga", "sharing"],
+ 	"pluginsConfig": {
+			"disqus": {
+			"shortName": "kavelin-academy"
+		},
+		"ga": {
+			"token": "UA-54348072-5",
+			"configuration": "auto"
+		},
+		"sharing":{
+			"facebook":true,
+			"twitter":true,
+			"google":false,
+			"weibo":false,
+			"instapaper":false,
+			"vk":true,
+			"all":["facebook","google","twitter","weibo","instapaper"]
+		}
+	}
+}
