@@ -2,7 +2,8 @@
 
 * [kavelin//academy](http://kavelin.academy)
 * [Уроки](https://lessons.kavelin.academy/ru/)
-* Авторы
-### [Документы](README.md)
+* [Документы](README.md)
 
-* [Методика создания проблемно-модульных уроков](001-problem-modular-lessons.md)
+### Создание уроков
+
+* [Проблемно-модульная методика](001-problem-modular-lessons.md)
