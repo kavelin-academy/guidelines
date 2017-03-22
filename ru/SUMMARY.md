@@ -7,3 +7,4 @@
 ### Создание уроков
 
 * [Проблемно-модульная методика](001-problem-modular-lessons.md)
+* [Компетенции в русском языке и литературе](002-russian-literature-competence.md)
